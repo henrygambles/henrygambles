@@ -4,7 +4,7 @@ I build search engines, data tools and AI agents. I'm usually happiest somewhere
 
 ### Things I'm working on
 
-- **[magus-search](https://github.com/henrygambles/magus-search)**: a search engine for magic and miracles across the world's traditions
+- **[magus-search](https://github.com/henrygambles/magus-search)**: a search engine for magic and miracles
 - **[Lydias-orchard](https://github.com/henrygambles/Lydias-orchard)**: survey a folder of projects in one shot (languages, git health, staleness)
 - **[HydraTelemetry](https://github.com/henrygambles/HydraTelemetry)**: distributed ML telemetry that catches hardware-scaling and XLA compilation bottlenecks (C++, Python, Protobuf, SQL)
 - **[Netbank](https://github.com/henrygambles/Netbank)**: making money work for everyone
