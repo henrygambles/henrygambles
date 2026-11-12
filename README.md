@@ -15,4 +15,4 @@ Got a question? [Open an issue on my AMA repo](https://github.com/henrygambles/a
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/henrygambles&type=Date)](https://star-history.com/#henrygambles/henrygambles&Date)
+![Star history](.github/star-history.svg)
